@@ -1,0 +1,42 @@
+body {
+    background: rgb(34, 193, 195);
+    background: linear-gradient(13deg, rgba(34, 193, 195, 1) 0%, rgba(253, 45, 45, 1) 100%);
+}
+
+.LandingPC {
+    background-color: white !important;
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+    margin-top: 2%;
+    border-radius: 10px;
+}
+
+.ImgLanding {
+    border-radius: 10%;
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+}
+
+#btnLanding {
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+}
+
+.ColumnaUno {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ColumnaDos {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.catalogo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#idhomre {
+    cursor: pointer;
+}
